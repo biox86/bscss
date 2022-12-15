@@ -1666,7 +1666,7 @@ blockquote a {
 	background-color: #272a2f;
 	word-break: break-word;
 }
-#forums .forum_post.box #quickreplytext textarea {
+#forums .forum_post.box textarea {
     background-color: #171a1c;
 }
 #torrents .main_column .forum_post.box .body div {
