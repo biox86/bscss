@@ -1666,6 +1666,9 @@ blockquote a {
 	background-color: #272a2f;
 	word-break: break-word;
 }
+#torrents .main_column table.forum_post.box.vertical .body div {
+	padding: 0px;
+}
 .forum_post .body div {
 	padding: 10px;
 }
