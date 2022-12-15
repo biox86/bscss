@@ -1669,7 +1669,7 @@ blockquote a {
 #forums .forum_post.box #quickreplytext textarea {
     background-color: #171a1c;
 }
-#torrents .main_column table.forum_post.box.vertical .body div {
+#torrents .main_column .forum_post.box .body div {
 	padding: 0px;
 }
 .forum_post .body div {
